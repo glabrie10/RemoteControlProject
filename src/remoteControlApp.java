@@ -5,5 +5,6 @@ public class remoteControlApp {
 		// TODO Auto-generated method stub
 
 	}
-
+// TODO add press button method
+// TODO add Turn on method
 }
